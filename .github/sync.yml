@@ -1,5 +1,8 @@
-daeyong-kim/test@main:
-  - README.md
-
-daeyong-kim/test2@main:
-  - README.md
+group:
+  # first group
+  - files:
+      - source: README.md
+        dest: README.md
+    repos: |
+      daeyong/test
+      daeyong/test2
