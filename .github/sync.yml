@@ -4,5 +4,5 @@ group:
       - source: README.md
         dest: README.md
     repos: |
-      daeyong/test
-      daeyong/test2
+      daeyong/test@main
+      daeyong/test2@main
