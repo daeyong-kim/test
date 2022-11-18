@@ -1,7 +1,7 @@
 group:
-    files:
-      - source: /testdir
-        dest: /testdir
+    #files:
+    source: /testdir
+    dest: /testdir
     repos: |
       daeyong-kim/test@main
       daeyong-kim/test2@main
